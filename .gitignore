@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment (e.g., venv/)
+venv/
+
+# SimpleTransformers & Model outputs
+outputs/
+runs/
+cache_dir/
+
+# Data files & Submissions (Too large for Git)
+Data/
+quiz_submission.tsv
+
+# IDE / OS files
+.vscode/
+.DS_Store
