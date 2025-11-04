@@ -109,8 +109,3 @@ Run the script again. It will skip training, load your fine-tuned model from `ou
 ```bash
 python ner.py
 ```
-
-This will generate the final `quiz_submission.tsv` file in your root directory, ready for submission.
-
-```
-```
